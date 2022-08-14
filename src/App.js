@@ -1,15 +1,19 @@
 import './App.css';
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  Routes,
+} from "react-router-dom";
 import Header from "./comp/Header"
-import Home from './Pages/Home';
 import Footer from './comp/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <>
     <Header></Header>
-    <Home></Home>
     <Footer></Footer>
-    </div>
+    </>
   );
 }
 

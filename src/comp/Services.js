@@ -3,7 +3,7 @@ import React from 'react'
 function Services() {
     return (
         <section className="text-gray-600 body-font">
-            <div className="container px-5 py-24 mx-auto">
+            <div className="container px-5 py-8 mx-auto">
                 <div className="flex flex-wrap -m-4">
                     <div className="p-4 lg:w-1/3">
                         <div className="h-full bg-blue-500  px-8 pt-24 pb-24 rounded-lg overflow-hidden text-center relative">
