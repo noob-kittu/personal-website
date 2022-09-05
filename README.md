@@ -1,3 +1,13 @@
+# The thought behind creating this personal website project in react
+The purpose of creating this website was that most of the developers spend their most time working and they do not have much time, then they can easily create their website using this premade template, apart from this, a framework like React is quite a lot. It is fast and trendy which gives a premium feel along with learning to new developers. If you are a developer and want to take this project to the next level then you are warmly welcome for your contribution.
+
+<div style="text-align:center;">
+<img src="https://github.com/noob-kittu/personal-website/blob/main/public/mockup1.jpg" width="300px">
+<img src="https://github.com/noob-kittu/personal-website/blob/main/public/mockup2.jpg" width="300px">
+
+<div>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
